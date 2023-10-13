@@ -18,6 +18,5 @@ I'am Pram, a 3rd year undergraduate Information Technology student who still lea
 <a href="twitter.com/prammmoee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="50" width="60" /></a>
 <a href="linkedin.com/in/ikhwanpramuditha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="50" width="60" /></a>
 <a href="instagram.com/ikhwanpramuditha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="50" width="60" /></a>
->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
