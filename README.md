@@ -1,6 +1,11 @@
-**Hi, there!👋**
+**Hi, I'm Pram!👋**
 
-I'am Pram, a 3rd year undergraduate Information Technology student who still learn and dive into complex world of technologies 😃
+Just a normal 3rd year undergraduate Information Technology student who still learn and dive into complex world of technologies 😃
+
+- 🔭 Currently doing an internship as a System Analyst @WidyaRobotics
+- 😄 Love typing code on weekend
+- 🌱 Building and empowering GDSC Universitas Negeri Yogyakarta
+- 📫 Reach me: twitter @prammmmoe
 ___
 <h3 align="left">Languages and Tools that I used:</h3>
 <br>
