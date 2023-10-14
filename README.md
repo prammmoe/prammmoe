@@ -19,8 +19,5 @@ ___
 <a href="https://instagram.com/ikhwanpramuditha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="50" width="60" /></a>
 
 ___
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-___
 ![prammmmoe's Github stats](https://github-readme-stats.vercel.app/api?username=prammmoe&show_icons=true&theme=tokyonight)
 
