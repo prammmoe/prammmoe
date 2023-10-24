@@ -5,7 +5,6 @@ Just a normal 3rd year undergraduate Information Technology student who still le
 - 🔭 Currently doing an internship as a System Analyst @WidyaRobotics
 - 😄 Love typing code on weekend
 - 🌱 Building and empowering GDSC Universitas Negeri Yogyakarta
-- 📫 Reach me: twitter @prammmmoe
 <br><br>
 
 ___
