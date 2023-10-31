@@ -55,6 +55,6 @@ ___
     </a>
   </div>
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_progress=false" alt="Top Langs" width="300px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_progress=false" alt="Top Langs" width="314px">
   </div>
 </div>
