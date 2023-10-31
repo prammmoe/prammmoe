@@ -11,11 +11,6 @@ ___
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prammmoe&theme=tokyonight&layout=compact" width="350px" />
-  </a>
-  
-  <div align="left">
     <a href="https://github.com/prammmoe">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prammmoe&show_icons=true&theme=tokyonight">
@@ -23,7 +18,6 @@ ___
         <img alt="Prammmoe's Github stats" src="https://github-readme-stats.vercel.app/api?username=prammmoe&show_icons=true&theme=tokyonight">
       </picture>
     </a>
-  </div>
 </div>
 
 <br>
