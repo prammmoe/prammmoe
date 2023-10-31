@@ -45,14 +45,16 @@ ___
 <br><br>
 ___
 
+<br>
+
 <!--START_SECTION:waka-->
 <div align="center">
   <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left"src="https://github-readme-stats.vercel.app/api/wakatime?username=prammmoe" alt="prammmoe's WakaTime stats">
+      <img align="left"src="https://github-readme-stats.vercel.app/api/wakatime?username=prammmoe&theme=tokyonight" alt="prammmoe's WakaTime stats">
     </a>
   </div>
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_progress=false" alt="Top Langs">
   </div>
 </div>
