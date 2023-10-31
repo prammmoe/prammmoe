@@ -13,7 +13,7 @@ ___
 <div align="center">
   <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left"src="https://github-readme-stats.vercel.app/api/wakatime?username=prammmoe&theme=tokyonight" alt="prammmoe's WakaTime stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=prammmoe&theme=tokyonight" alt="prammmoe's WakaTime stats" width="430px">
     </a>
   </div>
   <div align="left">
