@@ -1,6 +1,6 @@
 **Hi, I'm Pram👋**
 
-A tech geek, *I think*. 
+A tech geek, *I think*. <br>
 Have something to talk about? Hit me through Instagram DM. 
 <br>
   <div align="center">
