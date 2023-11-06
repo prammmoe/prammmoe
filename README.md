@@ -1,7 +1,7 @@
 **Hi, I'm Pram👋**
 
 A tech geek, *I think*. <br>
-Have something to talk about? Hit me through Instagram DM. 
+Have something to talk about? Hit me through Instagram DMs. 
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prammmoe&layout=compact&custom_title=Wik+Wik+Wika+Wika)](https://github.com/anuraghazra/github-readme-stats)
 
