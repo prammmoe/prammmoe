@@ -6,4 +6,4 @@
 
 <br>
 
-Reach me out via [email](ikhwanpramuditha05@gmail.com) or [LinkedIn](https://linkedin.com/in/ikhwanpramuditha)
+Reach me out via [email](mailto:ikhwanpramuditha05@gmail.com) or [LinkedIn](https://linkedin.com/in/ikhwanpramuditha)
